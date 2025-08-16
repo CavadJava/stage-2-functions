@@ -1,0 +1,55 @@
+Homework - Methods
+
+Part 1: String Methods
+    Convert the string  pet  to uppercase.
+    Given:  let pet = "golden retriever";
+    Expected Result:  "GOLDEN RETRIEVER"
+
+
+2.Find the Length of a String
+    Find out how many characters are in the string Given: let question = "Can you solve this problem?";
+    Expected Result: 27
+    question.
+
+3.Replace a Word in a String
+    Replace the word "boring" with "exciting" in the string Given: let activity = "This game is boring";
+    Expected Result: "This game is exciting"
+    activity.
+
+4.Extract a Substring
+    Extract the word "Adventure" from the string headline .
+    Given: let headline = "Choose Your Adventure!";
+    Expected Result: "Adventure"
+
+
+
+Part 2: Array Methods
+1.Add an Item to an Array
+    Add the dessert "Cake" to the desserts array.
+    Given: let desserts = ["Ice Cream", "Pie", "Pudding"];
+    Expected Result: ["Ice Cream", "Pie", "Pudding", "Cake"]
+
+2.Check if an Array Includes an Item
+    a.Check if the cities array includes "Paris"
+    b.Given: let cities = ["London", "New York", "Tokyo"];
+    c.Expected Result: false
+
+
+3.Combine Two Arrays
+    a.Combine the cars array with the trucks array.
+    b.Given:
+    c.let cars = ["Sedan", "Coupe"];
+    d.let trucks = ["Pickup", "SUV"];
+    e.Expected Result: ["Sedan", "Coupe", "Pickup", "SUV"]
+
+
+4.Find the Index of an Item in an Array
+    a.Find the index of "Pie" in the desserts array.
+    b.Given: let desserts = ["Ice Cream", "Pie", "Pudding", "Cake"];
+    c.Expected Result: 1
+
+Bonus Task
+    •Reverse a String
+    •Reverse the string "Technology" using a combination of string and array methods.
+    •Given: let word = "Technology";
+    •Expected Result: "ygolonhceT"
